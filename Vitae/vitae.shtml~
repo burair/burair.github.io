@@ -1,0 +1,23 @@
+<!--- "section" html 5 semantic tag -->
+<div id="Vitae">
+<button class="controlButton ui-priority-secondary" id="show_all">Show all Content</button>
+<button class="controlButton ui-priority-secondary" id="hide_all">Hide all Content</button> 
+<!-- <img src="pics/show_inactive.png" alt="Show all Content" id="show_all" class="clickable hide" />
+<img src="pics/hide_inactive.png" alt="Hide all Content" class="clickable hide" id="hide_all" /> -->
+<br id="onlyPrint">
+<!--#include virtual="professional_experience.html"-->
+<br id="onlyPrint">
+<!--#include virtual="credentials.html"-->
+<br id="onlyPrint">
+<!--#include virtual="service.html"-->
+<br id="onlyPrint">
+<!--#include virtual="education.html"-->
+<br id="onlyPrint">
+<!--#include virtual="courses_taught.html"-->
+<br id="onlyPrint">
+<#include virtual="skills.html">
+<!--br id="onlyPrint"-->
+<!--include virtual="professional_development.html"-->
+<br id="onlyPrint">
+<#include virtual="interests.html">
+</div>

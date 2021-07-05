@@ -1,0 +1,113 @@
+@charset "UTF-8";
+
+/* ++++++++++++++++++++++++START STYLES FOR OVERALL SCHEME ++++++++++++++++++++++++++ */
+html { overflow-x: auto; overflow-y: scroll;}
+
+body {	
+	background-color: #ffffff;
+	font-family: 'Droid Sans', Arial, Georgia, 'Trebuchet MS', sans-serif;	
+	font-size: 12px;	
+	line-height: 1.5em;	
+	color: black;
+	margin: 0;
+	padding: 0;
+}
+label,input, textarea {display: block;}
+input.text { margin-bottom: 5px; width: 95%; padding: .2em; }
+fieldset { padding: 0; border: 0; margin-top: 0px }
+a, .clickableLink, .ui-widget-content a {color: #3366CC;text-decoration: none;}
+
+.ui-widget-content .ui-widget-header a {color: #ffffff;}
+a:hover {text-decoration: underline;}
+.small {font-size: 85%;}
+.inline {display: inline;}
+.italicize {font-style: italic;}
+.boldface {font-weight: bold;}
+.normal {font-style: normal;}
+.underline {text-decoration: underline;}
+.floatRight{float: right;}
+.floatLeft{float: left;}
+.alignRight {width: 25%;margin-left: 0.5em;}
+.clickable{cursor: pointer;}
+.defaultCursor{cursor: default;}
+.clearBoth {clear: both;}
+.clearNone {clear: none;}
+.hide {display: none;}
+.noBorder {border: none;}
+.noPadding {padding: 0;}
+.noMargin {margin: 0;}
+.noindent {text-indent: 0;}
+h2 a, h3 a, h4 a, h2 a:hover, h3 a:hover, h4 a:hover {text-decoration: none;}
+.smallText {font-size: 0.8em;line-height: 1em;}
+.defaultTextSize {font-size: 1.0em;line-height: 1.1em;}
+.largeText {font-size: 1.1em;line-height: 1.25em;}
+.largerText {font-size: 1.25em;line-height: 1.5em;}
+.hugeText {font-size: 1.5em;line-height: 1.8em;}
+.leftJustify {text-align: left;}
+.fullJustify {text-align: justify;}
+.icon {display: inline;border: none;}
+a.extlink .inline-icon {display: inline-block; vertical-align: baseline; width: 16px; height: 16px; background-image: url(images/ui-icons_7d110c_256x240.png); background-position: -32px -80px;}
+.ui-accordion {width: auto;}
+.accesskey {text-decoration: none;}
+.unselectable {-moz-user-select: -moz-none; -o-user-select: none; -webkit-user-select: none; user-select: none;}
+/* +++++++++++++++++++++++++++++ END STYLES FOR OVERALL SCHEME +++++++++++++++++++++++++++++++++++ */
+/* ++++++++++++++++++++++++++++++START STYLES FOR SPECIFIC CONTENT +++++++++++++++++++++++++++++++ */
+.js .sec_nav {display: block;}
+p.descProse {text-indent: 1em;margin: 0.5em;}
+p.citeMLA {text-indent: -1em;margin: 0.5em;padding-left: 1em;}
+div.descList ul {margin: inherit;margin-top: -1em;border: none;list-style-type: disc;}
+ul.datedList {width: auto;margin-left: 0;margin-right: 0;}
+dl.datedList {margin-left: 0.5em;}
+span.listDate {display: inline;position: relative;width: 7em;margin-right: 0;text-align:right;overflow: hidden;list-style-type: none;}
+div.name span.first {color: #F8F7ED;}
+div.name span.last {color: #F8F7ED;}
+.newsBlurb img {display: inline;width: 16px;vertical-align: text-top;border: none;padding-right: 0.5em;}
+.newsBlurb {text-align: center;bottom: 0;width: auto;}
+#vitaeCopy img {display: inline;width: auto;vertical-align: middle;}
+#emailAddress #emailHolder:before {content: "\02709  bkothari";}
+#emailAddress #emailHolder:after {content: "roctabletennis.com";}
+#phone #workphone:before {content: "\02706 +1 (585)";}
+#phone #workphone:after {content: "319-3995";}
+#phone #cellphone:before {content: "\02706  +1 (812)";}
+#phone #cellphone:after {content: "391-9532 (c)";}
+#Vitae, #Research, #Teaching {font-size: 1.1em;}
+#Vitae label {display: block;margin: 1px 0 0 0;width: auto;}
+#Vitae p {margin-left: 0.5em;margin-right: 0.5em;}
+#Vitae label.vhbnojs {
+	display: block;
+    padding: 0;
+    position: relative;
+    text-align: center;
+    text-decoration: none !important;
+    cursor: default;
+    margin: 0.5em 0.1em 0 0;
+    width: auto;
+    border-radius: 6px 6px 6px 6px;
+    background: url("images/ui-bg_highlight-hard_100_eeeeee_1x100.png") repeat-x scroll 50% 50% #EEEEEE;
+    border: 1px solid #D8DCDF;
+    color: #004276;
+    font-weight: bold;
+    font-family: Arial,Georgia,'Trebuchet MS',sans-serif;
+    font-size: 1.1em;
+    line-height: 1.5em;	
+}
+#Vitae dl ul {
+	 	margin-left: -2em;
+	}
+h5.paperLink{text-align: right;}
+img#iubooklogo, img#culogo, img#NClogo {width: 32px;margin: 0 0 0 2em;}
+span.listDateRange {display: inline;position: relative;width: 13em;margin-right: 0;text-align: right;overflow: hidden;}
+div#Vitae div h3 {margin-top: 0;text-align: center;}
+.controlButton {
+	font-size: 0.7em;
+	margin-left: 1%;
+	margin-right: 1%;
+	width: 8%;
+}
+.pc1Margin { margin-left: 1%; margin-right: 1%;	}
+.pc2Margin { margin-left: 2%; margin-right:2%; }
+.pc3Margin { margin-left: 3%; margin-right:3%; }
+.pc4Margin { margin-left: 4%; margin-right:4%; }
+.validateTips { border: 1px solid transparent; padding: 0.3em; }
+#onlyPrint{ display: none;}
+/* ++++++++++++++++++++++++++++++++++ END STYLES FOR SPECIFIC CONTENT +++++++++++++++++++++++++++++++++++ */

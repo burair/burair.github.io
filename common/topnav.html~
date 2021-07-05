@@ -1,0 +1,10 @@
+  <div id="top_navigation">   
+    <!-- this block is the markup for the top navigation bar -->
+    <!-- "nav" tag html5 semantic markup -->
+ 	<ul class="nav">
+      <li><a href="about.shtml#About" id="AboutTab" class="activeTab unselectable" tabindex="1" accesskey="a" title="Show About My Work [a]"><span class="accesskey">A</span>bout</a></li>
+      <li><a href="vitae.shtml" id="VitaeTab" class="unselectable" tabindex="2" accesskey="v" title="Show Burair's Curriculum Vitae [v]"><span class="accesskey">V</span>itae</a></li>
+<1--      <li><a href="projects.shtml#Projects" id="ProjectsTab" class="unselectable" tabindex="3" accesskey="p" title="Show Burair's  Projects and Activities[p]"><span class="accesskey">P</span>rojects</a></li> -->
+<!--     <li><a href="teaching.shtml#Teaching" id="TeachingTab" class="unselectable" tabindex="4" accesskey="t" title="Show Burair's Teaching Profile and and Descriptions of Courses Taught [t]"><span class="accesskey">T</span>eaching</a></li> -->
+	</ul>	
+  </div>

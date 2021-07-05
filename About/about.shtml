@@ -1,0 +1,40 @@
+<!--- "section" html 5 semantic tag -->
+<div id="About">
+<div class="topBlurb largeText ui-widget-content ui-corner-all">
+<div style="text-align:center" class=
+"largerText ui-widget-header ui-corner-top">About My Work</div>
+<p class="largeText descProse fullJustify">I leverage my training in physics, mathematics and 
+computing to create educational environments and content that may be utilized in and out of 
+school settings to facilitate learning physics and math concepts. 
+</p>
+<p class="largeText descProse fullJustify">
+I explore a point of view about knowing and learning called situated cognition. 
+This point of view emphasizes the centrality, in cognition and idea formation, of the environment within which learners experience and conceptualize information.
+</p>
+
+<p class="largeText descProse fullJustify">
+My math and science class curricula and practices aim to maintain the real-world physical complexity of concepts and phenomena. 
+Maintaining the natural complexity of the learning environment helps learners transfer their knowledge and apply their ideas when faced with real-world tasks.
+Real-world applications of physical principles often involve using approximation techniques. These techniques are important as 
+an understanding of approximations and corrections is needed when a complex environment is modelled by principles of physics which accurately describe perfectly controlled settings.
+</p>
+
+<p class="largeText descProse fullJustify">
+For example, the flight of a baseball, football or basketball under ideal conditions (no forces due to air-resistance, in a non-rotating world etc.) would be described by a perfect parabolic arc. 
+In the real-world however we have to correct for air-resistance for example, which depends on the shape and size of the ball for one. Classroom and lab experiments often seem to "fail" discouragingly, 
+when a fruitful discussion opportunity might arise if the experiment or situation were to be representative of real-world complexity.   
+</p>
+
+<p class="largeText descProse fullJustify">
+In my classroom and extra-curricular practices I also attempt to enhance the scope and size of 
+student discussion and working groups carrying out experiments and projects, 
+by facilitating inter-group and intra-group communication.  
+Discussing concepts and problems in structured social groups often makes learning more efficient by 
+sharing the "frustration load" and allowing individual strengths to contribute meaningfully to 
+group tasks. It also creates more fruitful dialogue and discussion, especially when choosing appropriate 
+approximations in modelling real-world complexity.     
+</p>
+
+</div>
+
+</div>

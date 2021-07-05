@@ -1,0 +1,235 @@
+@page
+{
+    size: auto;
+    margin: 25mm 25mm 25mm 25mm;
+    margin-bottom: 30mm;
+}
+
+@media print {
+    .pagebreak {
+	clear: both;
+	page-break-after: always;
+    }
+}
+
+br#onlyPrint{
+    display: block !important;
+}
+
+body {background: transparent none; font-family: Arial, Georgia, 'Trebuchet MS', 'Droid Sans', sans-serif !important;	font-size: 10pt;	line-height: 1.5em;	color: black; margin: 0in; padding: 0in;}
+
+* {border: none !important;background: none transparent !important;text-decoration: none ;color: black; overflow: visible !important;}
+
+a { color: inherit !important; font-size: inherit; }
+
+p, span, li, dd, div {
+	font-size: 10pt;
+}
+
+a span {
+	color: inherit; font-size: inherit;
+}
+
+a em {
+	color: inherit;
+}
+
+.ui-widget-header { color: black; }
+
+#mainBlurbs {
+	position: relative;
+	top: 0;
+	left: 0;
+	display: block;
+	width: auto;
+	padding:0;
+	margin: 0;
+}
+
+div.name {
+   display: inline-block;
+   width: auto;
+   padding: 0;
+   margin: 0;
+   margin-left: 0;
+   margin-right: auto;
+   margin-top: 1em;
+   padding-top: 0.5em;
+   padding-right: 0.2em;
+   font-size: 20pt !important;
+   line-height: 25pt !important;
+   height: 3em;
+/*   color: #F36e21; */
+//   color: #7d110c;
+   border-right: 2px solid /*#7d110c*/ !important;
+   border-bottom: 2px solid /*#7d110c*/ !important;
+   border-radius: 0;
+   -moz-border-radius: 0;
+   -webkit-border-radius: 0;
+   text-align: left;
+   background: none transparent;
+   
+}
+
+div.name span {
+	text-transform: uppercase;
+	display: block !important;
+	float: none;
+	font-size: inherit;
+	font-weight: normal;
+	color: inherit !important;
+	text-align: left;
+}
+
+div#bioBlurb {
+	display: inline-block;
+	text-align: left;
+	width: auto;
+	margin: 0;
+	margin-top: auto;
+	margin-bottom: 0;
+	height: 3em;
+	padding-left: 0.5em;
+}
+
+#websiteHolder a:after {
+    content: ": http://burair.pairserver.com";
+}
+#title2 br, #contactinfo #phone br {
+    display: none;
+}
+#position div, #office div, #contactinfo div, #contactinfo a {
+	display: inline;
+}
+#position #title1:after, #office #institution:after, #contactinfo #phone:after {
+	content: " \25cf ";
+}
+
+
+img {
+display: none !important;
+}
+
+#top_navigation {
+	display: none;
+}
+
+.js div#middleColumn, div#middleColumn {
+	display: block;
+	margin: 0;
+	padding: 0;
+	width: auto;
+	left:0;
+	right:0;
+}
+
+.js div#AboutHolder, div#AboutHolder, .js div#VitaeHolder, div#VitaeHolder, .js div#TeachingHolder,  div#TeachingHolder, .js div#ResearchHolder, div#ResearchHolder {
+    position: relative;
+    top: 0;
+    margin: 0;
+    padding: 0;
+    width: auto;
+    left:0;
+    right: 0;
+}
+
+div#About, div#Vitae, div#Teaching, div#Research {
+	position: relative;
+	width: auto;
+	top: 1em;
+}
+
+div#Vitae div {
+	display: block !important;
+	height: auto !important;
+	text-align: left;
+}
+
+div#Vitae label span.ui-button-text {
+	margin: 0;
+	display: block;
+	width: auto;
+	font-size: 18pt;
+	text-transform: lowercase;
+	font-weight: normal;
+//	color: #7d110c;
+}
+
+div#Teaching div#Courses div {
+	display: block !important;
+	height: auto !important;
+}
+
+div#Research div#ResearchProjects div {
+	display:block !important;
+	height: auto !important;
+}
+
+div#bioBlurb button, div#bioBlurb div#vitaeCopy, div.newsBlurb {
+	display: none !important;
+}
+
+div#bioBlurb div#emailAddress {
+	font-size: 1em;
+}
+
+h5.paperLink:after {
+	
+}
+
+.sec_nav {
+    background: none repeat scroll 0 0 #E8E7E7 !important;
+    border-left: 1px solid #BBBBBB !important;
+    border-radius: 5px 5px 5px 5px !important;
+    border-top: 1px solid #BBBBBB !important;
+    box-shadow: 0 1px 2px #FFFFFF !important;
+    font-size: 88%;
+    margin: 5px 10px;
+    padding: 3px 3px;
+}
+
+.sec_nav li a:hover {
+	text-decoration: none;
+	border-bottom: 2px solid #c78036 !important;
+}
+
+.sec_nav li a.ui-state-active:hover {
+	border-bottom: none !important;
+}
+
+.js #printButton {
+	visibility: visible;
+}
+
+a.extlink span.inline-icon {
+	display: none;
+}
+
+a.extlink:after {
+	content:" (" attr(href) ")";
+}
+
+a.noprint {
+	display: none;
+}
+
+a.noprint:after {
+	content: "";
+}
+
+.print {
+	display: block;
+}	
+
+span.accesskey {
+	color: inherit !important;
+	font-size: inherit !important;
+}
+
+button.controlButton {
+	visibility: hidden;
+}
+
+.js div#ResearchCollage {
+	display: none;
+}

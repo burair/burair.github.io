@@ -1,0 +1,33 @@
+
+ <style type='text/css'>
+ <!--
+ @charset "UTF-8";
+ @media all {
+ <!--#include virtual="../styles/custom.css"-->
+ <!--#include virtual="../styles/scheme.css"-->
+ <!--#include virtual="../styles/content.css"-->
+ <!--#include virtual="../styles/fixed.css"-->
+ }
+@media handheld, only screen {
+<!--#include virtual="../styles/fluid.css"-->
+}
+
+@media print, screen and (min-width: 769px) {
+<!--#include virtual="../styles/fixed.css"-->
+}
+
+@media handheld, only screen and (max-device-width: 770px) {
+<!--#include virtual="../styles/fluid.css"-->
+}
+
+@page {size: 8.5in 11in; margin: 0.5in;}
+
+@media print {
+<!--#include virtual="../styles/print.css"-->
+}
+@media print, handheld, only screen and ( max-width: 600px ) {
+.js .sec_nav{ display:  none; }
+}
+
+--> 
+ </style>

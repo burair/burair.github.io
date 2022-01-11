@@ -1,6 +1,0 @@
-<!-- JQuery is the javascript toolkit framework used to provide dynamic AJAX content --> 
-<script type="text/javascript" src="scripts/jquery.js"></script>
-<!-- The JQuery UI toolkit extends the JQuery framework providing uniform programmable user interface widgets and effects -->
-<script type="text/javascript" src="scripts/jquery-ui.js"></script>
-<!-- controls.js has the UI implementation; it defines how the widgets (buttons, switches, popups etc. function -->
-<script type="text/javascript" src="scripts/controls.js"></script>

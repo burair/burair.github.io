@@ -32,7 +32,7 @@ usemathjax: true
 <div class="resume-section-content" markdown=1>
 # Burair <span class="text-primary">Kothari</span>{:.mb-0}
 <div class="subheading mb-5" markdown=1>
-44 Woodbine St. Apt 1 · Providence, RI 02906 · (812) 391-9532 ·
+Providence, RI 02906 · (812) 391-9532 ·
 [bkothari@humedity.com](mailto:bkothari@humedity.com)
 </div>
 I leverage my training in math, science and computing to create engaging STEM learning environments for youth. My emphasis is on creating participatory and collaborative cultures to facilitate efficient, enjoyable, deep and transferable learning.  

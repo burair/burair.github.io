@@ -1,7 +1,7 @@
 ## Education {#education-header}
 {:.mb-5}
 **Doctoral Student**, Education  
-*2008-2012*{:.vitae-dates}  
+*2008-2009*{:.vitae-dates}  
 [Indiana University, Bloomington, IN](http://www.iub.edu "Indiana University at Bllomington -- Main Website"){:.extlink}
 
 

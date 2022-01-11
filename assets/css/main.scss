@@ -1,0 +1,15 @@
+---
+---
+
+@import "main";
+@import "variables";
+@import "variables_resume";
+@import "bootstrap/scss/bootstrap";
+@import "global_resume";
+@import "components_resume/_sidenav";
+@import "components_resume/_icons";
+@import "sections/resume-section.scss";
+
+.content {
+    font-size: $custom-font-size;
+}

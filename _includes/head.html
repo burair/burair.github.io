@@ -1,0 +1,29 @@
+
+
+
+<!-- for mathjax support -->
+{% if page.usemathjax %}
+   <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+      TeX: { equationNumbers: { autoNumber: "AMS" } }
+      });
+    </script>
+    <script type="text/javascript" async src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+{% endif %}
+<!-- Font Font Awesome icons (free version) -->
+    <script type="text/javascript" async src="https://use.fontawesome.com/releases/v5.15.4/js/all.js", crossorigin="anonymous"></script>
+
+
+<!-- this makes google analytics work for the website -->
+  <script type="text/javascript">
+	var _gaq = _gaq || [],
+	   ipAddr = <!-- -->;
+	_gaq.push(['_setAccount', 'UA-6719102-5']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+  </script>

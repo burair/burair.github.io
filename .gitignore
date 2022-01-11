@@ -8,4 +8,4 @@ _site/
 
 # ignore folders gereated by Bundler
 .bundle/
-vendor/
+vendor/bundle

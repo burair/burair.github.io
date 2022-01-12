@@ -26,7 +26,7 @@ usemathjax: true
 </nav>
 
 <!--- Resume Section: about --->
-{:.m-0}
+
 <div class="container-fluid p-0" markdown=1>
 <section id="about" class="resume-section contact" markdown=1>
 <div class="resume-section-content" markdown=1>

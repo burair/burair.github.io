@@ -1,6 +1,6 @@
-// 
+//
 // Sections
-// 
+//
 
 section.resume-section {
     display: flex;
@@ -29,4 +29,19 @@ section.resume-section {
         padding-top: 5rem;
         padding-bottom: 5rem;
     }
+}
+@media print {
+  section.resume-section {
+    page-break-before: always;
+    padding-left: 0;
+    padding-right:0;
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+  }
+  .resume-section-content {
+    page-break-inside: auto;
+  }
+  .resume-section-content li, dt, dd {
+    page-break-inside: avoid;
+  }
 }

@@ -3,8 +3,7 @@
 {:.mb-5}
 {:.vitae-defn}Contact Tracer, New York State Contact Tracing Initiative
 *2021*{:.vitae-dates}
-: Member of a team of contact tracers in Seneca and Monroe counties of New York State to reduce the spread of COVID-19 among communities in the counties.
-: Documented and communicated information to contacts of cases of COVID-19, to enable them to quarantine and isolate from other people, and to provide often vital safety and health information, and community support.
+: Documented and communicated information to contacts of cases of COVID-19, to enable them to quarantine. Provided often vital safety and health information, and community support.
 
 {:.vitae-defn}Founder, Humedity Inc
 *2021 -*{:.vitae-dates}
@@ -12,8 +11,8 @@
 
 {:.vitae-defn}President and Founder, ROCTT Coaching LLC, Rochester, NY
 *2020 –*{:.vitae-dates}  
-: Led the formative vision for a coaching company focused on providing quality and care in table tennis coaching
-: Worked alongside company members in procuring, providing and nurturing community centric participation in the Olympic sport of table tennis, in Rochester and its surrounding areas.
+: Led the formative vision for a urban coaching company focused on providing quality, care and equity in educational and recreational opportunities.
+: Worked alongside company members in procuring, providing and nurturing community participation in the Olympic sport of table tennis, in Rochester and its surrounding areas.
 
 {:.vitae-defn}Student Support Specialist – Physics and Math, Rochester Institute of Technology, Rochester, NY
 *2016 – 2019*{:.vitae-dates}
@@ -21,7 +20,7 @@
 : Facilitated courses in physics concepts and math skills for students looking to supplement coursework
 : Managed peer tutoring center efforts around campus
 
-{:.vitae-defn}Mathmatics Teacher and Tutor, Rochester Academy Charter School, Rochester, NY
+{:.vitae-defn}Mathematics Teacher and Tutor, Rochester Academy Charter School, Rochester, NY
 *2015 – 2016*{:.vitae-dates}
 : High school math teacher: AP Statistics, Geometry and Business Math
 : Middle school math tutor

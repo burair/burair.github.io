@@ -10,7 +10,7 @@
 
 {:.vitae-defn}AP Statistics   
 *2015-2016*{:.vitae-dates}  
-: High school course designed to provide a college level intoduction to statistical analysis and inference from data to enable students to successfully negotiate the Advanced Placement examination in statistics administered by the College Board
+: High school course designed to provide a college level introduction to statistical analysis and inference from data.
 
 {:.vitae-defn}Geometry  
 *2015-2016*{:.vitae-dates}  
@@ -22,11 +22,11 @@
 
 {:.vitae-defn}Classical Mechanics utilizing Calculus
 *Spring 2007,2008*{:.vitae-dates}  
-: A lecture/lab course on classical statics and dynamics involving the uses of Newton's Laws, and conservation principles, problem solving involved introducing the utility of calculus, for students majoring in the the physical sciences, technology and engineering.
+: A lecture/lab course on classical statics and dynamics introducing the utility of calculus, for students majoring in the the physical sciences, technology and engineering.
 
 {:.vitae-defn}Thermodynamics, Optics and Modern Physics utilizing Calculus.  
 *Spring 2007, 2008*{:.vitae-dates}  
-: A lecture/lab course exploring physics beyond the classical view of dynamics of large, massive objects which are few in number for students majoring in the physical sciences, technology and engineering.
+: A lecture/lab course exploring physics beyond the classical view of dynamics for students majoring in the physical sciences, technology and engineering.
 
 {:.vitae-defn}Physical Science: Earth Science  
 *Fall 2006, Spring 2007, Fall 2007, Spring 2008*{:.vitae-dates}    
@@ -34,11 +34,11 @@
 
 {:.vitae-defn}Electricity and Magnetism utilizing Calculus
 *Fall 2006,2007*{:.vitae-dates}  
-: A lecture/lab course on studies of electric charge, currents, circuits and electro-magnetic phenomena for students majoring in the physical sciences, technology and engineering.
+: A lecture/lab course on electric charge, current, circuits and electro-magnetic phenomena for students majoring in the physical sciences, technology and engineering.
 
 {:.vitae-defn}Introduction to descriptive Astronomy  
 *Spring 2007*{:.vitae-dates}    
-: A survey of astronomy, including the history of astronomical discoveries and devices, as well as an introductory descriptive guide to astronomical bodies and phenomena.
+: A survey of astronomy, and a descriptive guide to astronomical bodies and phenomena.
 
 {:.vitae-defn}General Physics: Mechanics, Optics and Thermodynamics  
 *Fall 2006*{:.vitae-dates}    

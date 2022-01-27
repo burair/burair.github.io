@@ -16,6 +16,8 @@ section.resume-section {
     }
 }
 
+
+
 @include media-breakpoint-up(md) {
     section.resume-section {
         min-height: 100vh;
@@ -31,17 +33,31 @@ section.resume-section {
     }
 }
 @media print {
+  #sideNav {
+    visibility: hidden;
+  }
+  .container {
+    width: auto;
+  }
+  @page {
+    size: 8.5in 11in;
+    margin: 2cm;
+  }
+
   section.resume-section {
-    page-break-before: always;
+    position: relative;
+    page-break-before: auto;
     padding-left: 0;
     padding-right:0;
     padding-top: 5rem;
     padding-bottom: 2rem;
   }
   .resume-section-content {
-    page-break-inside: auto;
+    position: relative;
+    page-break-inside: avoid !important;
   }
   .resume-section-content li, dt, dd {
-    page-break-inside: avoid;
+    position: relative;
+    page-break-inside: avoid !important;
   }
 }

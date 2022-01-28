@@ -33,12 +33,15 @@ section.resume-section {
     }
 }
 @media print {
-  .list-group {
-     display: block;
+  h1#burair-kothari {
+    font-size:  1.725rem;
   }
-
-  .list-group-item {page-break-inside: avoid; }
-
+  h2 {
+    font-size: 1.475rem;
+  }
+  .mb-5 {
+    margin-bottom: 1rem !important;
+  }
   #sideNav {
     visibility: hidden;
   }
@@ -55,12 +58,14 @@ section.resume-section {
     page-break-before: auto;
     padding-left: 0;
     padding-right:0;
-    padding-top: 5rem;
-    padding-bottom: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    min-height: auto;
   }
   .resume-section-content {
     position: relative;
     page-break-inside: avoid;
+    padding: 0;
   }
   .resume-section-content p, li, dt, dd {
     display: block;

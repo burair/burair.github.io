@@ -1,8 +1,12 @@
 ## Courses Taught
 {:.mb-5}
+{:.vitae-defn}Middle School Mathematics
+*2021 -*{:.vitae-dates}
+: Designed and implemented a math curriculum appropriate to the diverse learning needs of seventh- and eight-grade math learners in an intervention classroom for students in need of scaffolding to negotiate math ideas.
+
 {:.vitae-defn}Core Physics Concepts  
 *2017 - 2019*{:.vitae-dates}   
-: Designed and implemented a new course to enable effective and deep learning of physics concepts pre-requisite and co-requisite to introductory physics courses
+: Designed and implemented a new course to enable effective and deep learning of physics concepts, pre-requisite and co-requisite to introductory college physics courses
 
 {:.vitae-defn}Critical Math Skills  
 *2016 - 2019*{:.vitae-dates}  

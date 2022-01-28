@@ -1,6 +1,11 @@
 
 ## Experience
 {:.mb-5}
+{:.vitae-defn}Middle School Math Interventionist, Trinity Academy for the Performing Arts
+*2021 -*{:vitae-dates}
+: Led seventh- and eigth-grade mathematics classes for students identified as in need of greater scaffolding. Designed engaging lessons and utilized novel techniques to scaffold math learning.
+
+
 {:.vitae-defn}Contact Tracer, New York State Contact Tracing Initiative
 *2021*{:.vitae-dates}
 : Documented and communicated information to contacts of cases of COVID-19, to enable them to quarantine. Provided often vital safety and health information, and community support.
@@ -34,7 +39,7 @@
 : Facilitated first and second-year college level engineering physics, general physics, astronomy and earth science courses as sole instructor.
 
 {:.vitae-defn}Research Fellow, D0 Experiment, Columbia University Group, Fermi National Accelerator Laboratory, Batavia, IL.  
-2001-2006  
+*2001-2006*{:.vitae-dates}  
 : Helped design, prototype, monitor and diagnose problems in apparatus designed to test high energy physics theories
 
 

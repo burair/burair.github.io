@@ -33,6 +33,12 @@ section.resume-section {
     }
 }
 @media print {
+  .list-group {
+     display: block;
+  }
+
+  .list-group-item {page-break-inside: avoid; }
+
   #sideNav {
     visibility: hidden;
   }
@@ -40,7 +46,7 @@ section.resume-section {
     width: auto;
   }
   @page {
-    size: 8.5in 11in;
+    size: auto;
     margin: 2cm;
   }
 
@@ -54,10 +60,12 @@ section.resume-section {
   }
   .resume-section-content {
     position: relative;
-    page-break-inside: avoid !important;
+    page-break-inside: avoid;
   }
-  .resume-section-content li, dt, dd {
+  .resume-section-content p, li, dt, dd {
+    display: block;
     position: relative;
-    page-break-inside: avoid !important;
+    page-break-before: auto;
+    page-break-inside: avoid;
   }
 }

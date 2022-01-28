@@ -1,7 +1,7 @@
 
 ## Experience
 {:.mb-5}
-{:.vitae-defn}Middle School Math Interventionist, Trinity Academy for the Performing Arts
+{:.vitae-defn}Middle School Math Interventionist, Trinity Academy for the Performing Arts, Providence, RI
 *2021 -*{:vitae-dates}
 : Led seventh- and eigth-grade mathematics classes for students identified as in need of greater scaffolding. Designed engaging lessons and utilized novel techniques to scaffold math learning.
 

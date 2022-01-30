@@ -45,9 +45,7 @@ section.resume-section {
   #sideNav {
     visibility: hidden;
   }
-  .container {
-    width: auto;
-  }
+
   @page {
     size: auto;
     margin: 2cm;
@@ -55,7 +53,6 @@ section.resume-section {
 
   section.resume-section {
     position: relative;
-    page-break-before: auto;
     padding-left: 0;
     padding-right:0;
     padding-top: 1rem;
@@ -64,7 +61,6 @@ section.resume-section {
   }
   .resume-section-content {
     position: relative;
-    page-break-inside: avoid;
     padding: 0;
   }
   .resume-section-content p, li, dt, dd {

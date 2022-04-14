@@ -3,6 +3,9 @@
 {:.mb-5}
 
 {:.vitae-defn} Rhode Island Teaching Certificate
+: Certified as classroom teacher in physics for grades 7 to 12.
+
+{:.vitae-defn} Rhode Island Teaching Certificate
 : Certified as classroom teacher in mathematics for grades 7 to 12.
 
 {:.vitae-defn}ITTF/PTT/USTATT Table Tennis Instructor Certificate

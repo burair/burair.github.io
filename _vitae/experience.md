@@ -1,9 +1,10 @@
 
 ## Experience
 {:.mb-5}
-{:.vitae-defn}Middle School Math Interventionist, Trinity Academy for the Performing Arts, Providence, RI
+{:.vitae-defn}Math Educator, Trinity Academy for the Performing Arts, Providence, RI
 *2021 -*{:vitae-dates}
 : Led seventh- and eigth-grade mathematics classes for students identified as in need of greater scaffolding. Designed engaging lessons and utilized novel techniques to scaffold math learning.
+: Led ninth- and tenth-grade Algebra 1 and Geometry classes utilizing the discovery based currciculum from Imagine learning and Illustrative math. 
 
 
 {:.vitae-defn}Contact Tracer, New York State Contact Tracing Initiative

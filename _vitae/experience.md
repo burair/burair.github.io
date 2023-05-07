@@ -1,11 +1,15 @@
 
 ## Experience
 {:.mb-5}
+{:.vitae-defn}Physics Teacher, Providence Country Day School, East Providence, RI
+*2022 -*{:vitae-dates}
+: Led 9th grade Conceptual Physics classes in a Physics First currciculum, emphasizing learning conceptual physics in a less math intensive way as a precursor to other High School Science courses.
+: Led APC Physics C classes in Mechanics and Electricity and Magnetism. These classes formed a college level introduction to calculus based physics for High School Students advanced in Math. 
+
 {:.vitae-defn}Math Educator, Trinity Academy for the Performing Arts, Providence, RI
-*2021 -*{:vitae-dates}
+*2021 - 2022*{:vitae-dates}
 : Led seventh- and eigth-grade mathematics classes for students identified as in need of greater scaffolding. Designed engaging lessons and utilized novel techniques to scaffold math learning.
 : Led ninth- and tenth-grade Algebra 1 and Geometry classes utilizing the discovery based currciculum from Imagine learning and Illustrative math. 
-
 
 {:.vitae-defn}Contact Tracer, New York State Contact Tracing Initiative
 *2021*{:.vitae-dates}

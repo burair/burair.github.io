@@ -38,7 +38,7 @@ usemathjax: true
 
 [burair.kothari@caa.columbia.edu](mailto:burair.kothari@caa.columbia.edu) · [burair.github.io](https://burair.github.io)
 </div>
-I leverage my training in math, science and computing to create engaging STEM learning environments for youth. My emphasis is on creating participatory and collaborative cultures to facilitate efficient, enjoyable, deep and transferable learning.  
+I leverage my training in math, science and computing to create engaging learning environments. My emphasis is on creating participatory and collaborative cultures to facilitate efficient, enjoyable, deep and transferable learning.  
 {:.lead .mb-5}
 </div>
 </section>

@@ -20,7 +20,8 @@ usemathjax: true
 - {:.nav-item}[Experience](#experience){:.nav-link .js-scroll-trigger}
 - {:.nav-item}[Skills](#skills){:.nav-link .js-scroll-trigger}
 - {:.nav-item}[Education](#education){:.nav-link .js-scroll-trigger}  
-- {:.nav-item}[Teaching](#teaching){:.nav-link .js-scroll-trigger}  
+- {:.nav-item}[Teaching](#teaching){:.nav-link .js-scroll-trigger} 
+- {:.nav-item}[Circular Motion Gamified](#projects){:.nav-link .js-scroll-trigger} 
 {:.navbar-nav}
 {% comment %} - {:.nav-item}[Credentials](#credentials){:.nav-link .js-scroll-trigger} {% endcomment %}
 </div>
@@ -33,7 +34,7 @@ usemathjax: true
 <div class="resume-section-content" markdown=1>
 # Burair <span class="text-primary">Kothari</span>{:.mb-0}
 <div class="subheading mb-5" markdown=1>
-27 Taft Ave, Providence, RI 02906· (812) 391-9532 ·
+27 Taft Ave, Providence, RI 02906 · (812) 391-9532 ·
 
 [burair.kothari@caa.columbia.edu](mailto:burair.kothari@caa.columbia.edu) · [burair.github.io](https://burair.github.io)
 </div>

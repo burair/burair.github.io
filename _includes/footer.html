@@ -1,4 +1,22 @@
+<script src="https://www.geogebra.org/apps/deployggb.js"></script>
 <script src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
 <script src="{{'/node_modules/popper.js/dist/umd/popper.min.js' | prepend: site.baseurl}}"></script>
 <script src="{{'/node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
 <script src="{{'assets/js/scripts.js' | prepend: site.baseurl}}"></script>
+<script type="text/javascript">
+  var params = {
+            "appName": "3d", 
+            "width": 1600, 
+            "height": 1200,
+            "enable3d": true,
+            "scale": 0.5, 
+            "showToolBar": false, 
+            "showAlgebraInput": false, 
+            "showMenuBar": false,
+            "material_id": "zy3yafam",
+            };
+    var ggbApplet = new GGBApplet(params, true);
+    window.addEventListener("load", function() { 
+        ggbApplet.inject('ggb-element');
+    });
+  </script>

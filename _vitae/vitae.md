@@ -6,10 +6,11 @@
 {% include_relative _vitae/credentials.md %}
 {% include_relative _vitae/service.md %}
 {% include_relative _vitae/teaching.md %}
+{% include_relative _vitae/skills.md %}
 {% include_relative _vitae/pd.md %}
+
 {% comment %}
 {% include_relative interests.md %}
-{% include_relative skills.md %}
 
 
 <!--do_not_include virtual="honors.html"-->

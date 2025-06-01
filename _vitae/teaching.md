@@ -1,7 +1,19 @@
 ## Courses Taught
 {:.mb-5}
+{:.vitae-defn}Conceptual Physics
+*2022 - 2025*{:.vitae-dates}
+: Designed a physics curriculum appropriate for a 9th grade introduction to physics as the first topically distinct high-school science course. Differentiated content and delivery based on student needs.
+
+{:.vitae-defn}AP Physics C Mechanics and Electricity and Magnetism
+*2022 - 2025*{:.vitae-dates}
+: Utilized the AP Physics C currciulum to produce content for a Calculus based physics course covering Mechanics and Electricity and Magnetism. Prepared students to attempt the College Board AP Physics C exams.
+
+{:.vitae-defn} Topical Electives Business Statistics and Astronomy
+*2022 - 2025*{:.vitae-dates}
+: Designed and delivered topical courses in Astronomy and Business Statistics for High School Seniors to take as an elective course.
+
 {:.vitae-defn}Middle School Mathematics
-*2021 -*{:.vitae-dates}
+*2021 - 2022*{:.vitae-dates}
 : Designed and implemented a math curriculum appropriate to the diverse learning needs of seventh- and eight-grade math learners in an intervention classroom for students in need of scaffolding to negotiate math ideas.
 
 {:.vitae-defn}Core Physics Concepts  

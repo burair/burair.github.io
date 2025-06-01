@@ -17,11 +17,12 @@ usemathjax: true
 </button>
 <div id="navbarResponsive" class="collapse navbar-collapse" markdown=1>
 - {:.nav-item}[About](#about){:.nav-link .js-scroll-trigger}  
-- {:.nav-item}[Experience](#experience){:.nav-link .js-scroll-trigger}  
-- {:.nav-item}[Credentials](#credentials){:.nav-link .js-scroll-trigger}    
+- {:.nav-item}[Experience](#experience){:.nav-link .js-scroll-trigger}
+- {:.nav-item}[Skills](#skills){:.nav-link .js-scroll-trigger}
 - {:.nav-item}[Education](#education){:.nav-link .js-scroll-trigger}  
 - {:.nav-item}[Teaching](#teaching){:.nav-link .js-scroll-trigger}  
 {:.navbar-nav}
+{% comment %} - {:.nav-item}[Credentials](#credentials){:.nav-link .js-scroll-trigger} {% endcomment %}
 </div>
 </nav>
 
@@ -32,7 +33,8 @@ usemathjax: true
 <div class="resume-section-content" markdown=1>
 # Burair <span class="text-primary">Kothari</span>{:.mb-0}
 <div class="subheading mb-5" markdown=1>
-Providence, RI · (401) 341-8295 ·
+27 Taft Ave, Providence, RI 02906· (812) 391-9532 ·
+
 [burair.kothari@caa.columbia.edu](mailto:burair.kothari@caa.columbia.edu) · [burair.github.io](https://burair.github.io)
 </div>
 I leverage my training in math, science and computing to create engaging STEM learning environments for youth. My emphasis is on creating participatory and collaborative cultures to facilitate efficient, enjoyable, deep and transferable learning.  
@@ -53,6 +55,17 @@ I leverage my training in math, science and computing to create engaging STEM le
 {:.m-0}
 <!--- End Resume Section: experience --->
 
+<!--- Resume Section: skills --->
+<section id="skills" class="resume-section" markdown=1>
+<div class="resume-section-content" markdown=1>
+{% include_relative _vitae/skills.md %}
+</div>
+</section>
+---
+{:.m-0}
+<!--- End Resume Section: skills --->
+
+{% comment %}
 <!--- Resume Section: credentials --->
 <section id="credentials" class="resume-section" markdown=1>
 <div class="resume-section-content" markdown=1>
@@ -62,7 +75,7 @@ I leverage my training in math, science and computing to create engaging STEM le
 ----
 {:.m-0}
 <!--- End Resume Section: credentials --->
-
+{% endcomment %}
 
 <!--- Resume Section: education --->
 <section id="education" class="resume-section" markdown=1>
@@ -84,7 +97,31 @@ I leverage my training in math, science and computing to create engaging STEM le
 {:.m-0}
 <!--- End Resume Section: teaching --->
 
+<!--- End Resume Section: education --->
+
+<!--- Resume Section: projects --->
+<section id="projects" class="resume-section" markdown=1>
+<div class="resume-section-content" markdown=1>
+{% include_relative _vitae/projects.md %}
+<a href="https://www.geogebra.org/m/xdzwjy2h" class="btn-link">See the full version in a problem set form.</a>
+
+<div id="ggb-element"></div>
+
+</div>
+</section>
+----
+{:.m-0}
+<!--- End Resume Section: teaching --->
+
+
 {% comment %}
+
+<section id="math" class="resume-section" markdown=1>
+
+$$ E=\gamma mc^2 $$
+
+</section>
+
 {% include_relative _vitae/credentials.md %}
 {% include_relative _vitae/service.md %}
 
@@ -102,11 +139,6 @@ I leverage my training in math, science and computing to create engaging STEM le
 <!--include virtual="research_experience.html"-->
 <!--include virtual="publications.html"-->
 
-
-
-<section id="math" class="resume-section" markdown=1>
-
-$$ E=\gamma mc^2 $$
-
-</section>
 {% endcomment %}
+
+
